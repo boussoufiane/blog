@@ -1,6 +1,6 @@
 ---
 layout : index
-title: Articles7
+title: Articles 8
 sidebar_link: true
 ---
 
