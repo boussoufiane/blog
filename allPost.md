@@ -1,6 +1,6 @@
 ---
-layout : allPost
-title: Articles 11
+layout : all
+title: Articles 12
 sidebar_link: true
 ---
 
