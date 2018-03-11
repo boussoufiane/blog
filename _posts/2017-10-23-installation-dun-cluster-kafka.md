@@ -9,10 +9,16 @@ permalink: /installation-dun-cluster-kafka/
 categories:
   - JAVA
 ---
-1. Introduction 4
+1. Introduction 5
 
-* TOC
-{:toc}
+  <ul>
+{% for post in site.posts %}
+  <li>
+    <a href="{% post.permalink %}">{% post.title %}</a>
+    <p>{{ post.excerpt }}</p>
+  </li>
+{% endfor %}
+</ul>
 
 Kafka est un système de message distribué, il permet les échanges de messages asynchrones entre différents systèmes.
   
