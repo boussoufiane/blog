@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Articles2
+sidebar_link: true
 ---
 
 
