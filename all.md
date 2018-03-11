@@ -1,6 +1,6 @@
 ---
 layout: all
-title: Articles 17
+title: Tous les articles 
 sidebar_link: true
 ---
 
