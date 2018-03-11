@@ -12,7 +12,7 @@ sidebar_link: true
 	
   {% include pagination-newer.html %}
 
-  
+  {{ content }}
 
 
   {% for post in paginator.posts %}
