@@ -6,6 +6,15 @@ layout: default
   {% include pagination-newer.html %}
 
   {{ content }}
+  
+  <ul>
+{% for post in site.posts %}
+  <li>
+    <a href="{% post.permalink %}">{% post.title %}</a>
+    <p>{{ post.excerpt }}</p>
+  </li>
+{% endfor %}
+</ul>
 
   {% for post in paginator.posts %}
   <article class="post-body">
