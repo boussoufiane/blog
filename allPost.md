@@ -1,4 +1,5 @@
 ---
+layout : page 
 title: Articles3
 sidebar_link: true
 ---
