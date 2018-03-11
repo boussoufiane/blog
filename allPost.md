@@ -1,5 +1,5 @@
 ---
-layout : page 
+layout : default 
 title: Articles4
 sidebar_link: true
 ---
