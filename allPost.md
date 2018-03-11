@@ -1,17 +1,15 @@
 ---
 layout : default
-title: Articles 9
+title: Articles 10
 sidebar_link: true
 ---
 <div class="content">
 	
 	
-{% include list-categories-count.html %}
 	
 	
   {% include pagination-newer.html %}
 
-  {{ content }}
   
 
 
