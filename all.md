@@ -1,6 +1,6 @@
 ---
-layout: index
-title: Articles 16
+layout: all
+title: Articles 17
 sidebar_link: true
 ---
 
