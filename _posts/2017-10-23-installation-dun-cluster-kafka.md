@@ -9,7 +9,10 @@ permalink: /installation-dun-cluster-kafka/
 categories:
   - JAVA
 ---
-1. Introduction 3
+1. Introduction 4
+
+* TOC
+{:toc}
 
 Kafka est un système de message distribué, il permet les échanges de messages asynchrones entre différents systèmes.
   
