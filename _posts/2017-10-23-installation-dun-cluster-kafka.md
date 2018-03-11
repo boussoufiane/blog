@@ -11,15 +11,6 @@ categories:
 ---
 1. Introduction 5
 
-  <ul>
-{% for post in site.posts %}
-  <li>
-    <a href="{% post.permalink %}">{% post.title %}</a>
-    <p>{{ post.excerpt }}</p>
-  </li>
-{% endfor %}
-</ul>
-
 Kafka est un système de message distribué, il permet les échanges de messages asynchrones entre différents systèmes.
   
 Kafka utilise Zookeeper pour gérer les différents instances d’un cluster .
