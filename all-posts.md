@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Articles
+title: Articles1
 sidebar_link: true
 ---
 
