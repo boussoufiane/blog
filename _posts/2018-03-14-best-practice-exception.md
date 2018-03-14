@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 title: 'Bonne pratique pour la gestion des exception '
 date: 2018-03-14T22:31:12+00:00
