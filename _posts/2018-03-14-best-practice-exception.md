@@ -16,8 +16,8 @@ categories:
   Quand on utilise des ressources comme par exemple **InputStream** ou **OutputStream** ou une connexion à une base de données  , il ne faut pas oublier de les libérer dans un bloc Finally de try catch .
  Si on libère pas la ressource , il sera bloqué et aucun autre processus ne peut y accéder .
  
- <pre class="java">
- public void doNotCloseResourceInTry() {
+<pre><code class="java">
+public void doNotCloseResourceInTry2() {
 	FileInputStream inputStream = null;
 	try {
 		File file = new File("./tmp.txt");
@@ -33,7 +33,7 @@ categories:
 		log.error(e);
 	}
 }
- </pre>
+</code></pre>
  
  Le problème avec cette approche c'est que si il y a une exception , la libération de la ressource ne sera jamais appelé .
  
