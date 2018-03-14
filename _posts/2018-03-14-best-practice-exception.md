@@ -16,7 +16,7 @@ categories:
   Quand on utilise des ressources comme par exemple **InputStream** ou **OutputStream** ou une connexion à une base de données  , il ne faut pas oublier de les libérer dans un bloc Finally de try catch .
  Si on libère pas la ressource , il sera bloqué et aucun autre processus ne peut y accéder .
  
- <pre class="brush: java; title: ; notranslate" title="">
+ <pre class="java">
  public void doNotCloseResourceInTry() {
 	FileInputStream inputStream = null;
 	try {
