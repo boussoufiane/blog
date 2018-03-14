@@ -17,7 +17,7 @@ categories:
  Si on libère pas la ressource , il sera bloqué et aucun autre processus ne peut y accéder .
  
 {% highlight java %}
-public void doNotCloseResourceInTry2() {
+public void doNotCloseResourceInTry() {
 	FileInputStream inputStream = null;
 	try {
 		File file = new File("./tmp.txt");
