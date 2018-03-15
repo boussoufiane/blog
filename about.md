@@ -22,7 +22,7 @@ Ce blog est un moyen pour moi de poster des arcticles concernant les différents
 ## CONTACT 
 
 <p class="message">
-Si vous avez des remarques sur mon blogs ou des question à me poser n'hésiter pas à me contacter sur mon profil linkdin ou m'envoyer un email sur l'adresse **y.boussoufiane@gmail.com** 
+Si vous avez des remarques sur mon blogs ou des question à me poser n'hésiter pas à me contacter sur mon profil linkdin ou m'envoyer un email sur l'adresse y.boussoufiane@gmail.com
 </p>
 
 
