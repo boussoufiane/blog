@@ -16,8 +16,13 @@ published: true
 ## POURQUOI CE BLOG 
 
 <p class="message">
-Ce blog est un moyen pour moi de poster des arcticles concernant les différents problèmatiques de développement  que je rencontre dans mes projets ainsi que leurs solutions .
- 
+Ce blog est un moyen pour moi de poster des arcticles concernant les différents problèmatiques de développement  que je rencontre dans mes projets et de garder une trace de leurs solutions .
+</p>
+
+## CONTACT 
+
+<p class="message">
+Si vous avez des remarques sur mon blogs ou des question à me poser n'hésiter pas à me contacter sur mon profil linkdin ou m'envoyer un email sur l'adresse **y.boussoufiane@gmail.com** 
 </p>
 
 
