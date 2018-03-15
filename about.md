@@ -13,7 +13,8 @@ published: true
  Je suis ingénieur études et développement JavaEE , Je suis très passioné par tout ce qui est programmation et architecture des systèmes d'informations .
 </p>
 
-## Pourquoi ce blog
+## POURQUOI CE BLOG 
+
 <p class="message">
 Ce blog est un moyen pour moi de poster des arcticles concernant les différents problèmatiques de développement  que je rencontre dans mes projets ainsi que leurs solutions .
  
