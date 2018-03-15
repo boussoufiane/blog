@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Propos
+title: ''
 sidebar_link: true
 published: true
 ---
@@ -10,9 +10,8 @@ published: true
 ## YASSINE BOUSSOUFIANE
 
 <p class="message">
- Je suis ingénieur études et développement JavaEE , Je suis très passioné par tout ce qui est programmation et architecture des systèmes d'informations
- 
- Ce blog est un moyen pour moi de poster des arcticles concernant les différents problèmatiques de développement  que je rencontre dans mes projets ainsi que leurs solutions .
+ Je suis ingénieur études et développement JavaEE , Je suis très passioné par tout ce qui est programmation et architecture des systèmes d'informations .
+Ce blog est un moyen pour moi de poster des arcticles concernant les différents problèmatiques de développement  que je rencontre dans mes projets ainsi que leurs solutions .
  
 </p>
 
