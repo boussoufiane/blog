@@ -1,17 +1,20 @@
 ---
 layout: page
-title: About
+title: A Propos
 sidebar_link: true
 published: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
-
 ![Photo_profile.PNG]({{site.baseurl}}/Photo_profile.PNG)
 
+## YASSINE BOUSSOUFIANE
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+<p class="message">
+ Je suis ingénieur études et développement JavaEE , Je suis très passioné par tout ce qui est programmation et architecture des systèmes d'informations
+ 
+ Ce blog est un moyen pour moi de poster des arcticles concernant les différents problèmatiques de développement  que je rencontre dans mes projets ainsi que leurs solutions .
+ 
+</p>
+
+
+
