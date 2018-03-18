@@ -8,8 +8,6 @@ published: true
 ![]({{site.baseurl}}//assets/img//photo_moi_profil.jpg){: .center-image }
 
 
-## YASSINE BOUSSOUFIANE
-
 <p class="message">
  Je suis ingénieur études et développements JavaEE , Je suis très passioné par tout ce qui est programmation et architecture des systèmes d'information .
 </p>
