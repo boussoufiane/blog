@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: A propos
 sidebar_link: true
 published: true
 ---
