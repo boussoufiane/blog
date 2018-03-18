@@ -5,11 +5,13 @@ sidebar_link: true
 published: true
 ---
 
-[]({{site.baseurl}}//assets//img//photo_moi_profil.jpg)
+
 
 <p class="message">
  Je suis ingénieur études et développements JavaEE , Je suis très passioné par tout ce qui est programmation et architecture des systèmes d'information .
 </p>
+
+[]({{site.baseurl}}//assets//img//photo_moi_profil.jpg)
 
 ## POURQUOI CE BLOG 
 
