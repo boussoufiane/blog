@@ -20,7 +20,7 @@ Dans notre installation, on va utiliser un cluster de 3 instances Kafka et 3 ins
   
 Chaque instance de Kafka et Zookeeper a un identifiant pour l’identifier de facon unique dans le cluster .
 
-![photo_moi_profil.jpg](/assets/img/installation-dun-cluster-kafka/archi_kafka.jpg)
+![](/assets/img/installation-dun-cluster-kafka/archi_kafka.jpg)
 
 2. Installation
   
