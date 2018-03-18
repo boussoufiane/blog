@@ -5,7 +5,7 @@ sidebar_link: true
 published: true
 ---
 
-![]({{site.baseurl}}//photo_moi_profil.jpg)
+![]({{site.baseurl}}//assets/img//photo_moi_profil.jpg)
 
 
 ## YASSINE BOUSSOUFIANE
