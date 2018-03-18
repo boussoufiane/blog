@@ -1,11 +1,14 @@
 ---
 layout: page
-title: 'about'
+title: about
 sidebar_link: true
 published: true
 ---
 
-![]({{site.baseurl}}//assets/img//photo_moi_profil.jpg){: .center-image }
+
+{:refdef: style="text-align: center;"}
+[]({{site.baseurl}}//assets/img//photo_moi_profil.jpg)
+{: refdef}
 
 
 <p class="message">
