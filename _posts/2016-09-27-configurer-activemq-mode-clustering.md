@@ -140,7 +140,7 @@ la configuration proposée ci dessus avec des ports différents est idéal quand
 
 Pour fixer le numéro de notre serveur Zookeeper, il faut créer un fichier nommé **myid** dans le répertoire configuré dans la clé dataDir et mettre l&rsquo;id du serveur soit 1 pour ce premier serveur et 2 pour le 2 eme et 3 pour le 3 éme .
 
-[<img class="alignnone size-medium wp-image-245" src="http://boussoufiane.com/wp-content/uploads/2016/09/id_zookeeper-300x67.jpg" alt="id_zookeeper" width="300" height="150" />](http://boussoufiane.com/wp-content/uploads/2016/09/id_zookeeper.jpg)
+![]({{site.url}}{{site.baseurl}}/assets/img/2016-09-27-configurer-activemq-mode-clustering/id_zookeeper.jpg)
 
 Pour démarrer l&rsquo;instance Zookeeper il faut cliquer sur le fichier **zkServer.cmd** qui se trouve dans le repertoire ./bin .
 
