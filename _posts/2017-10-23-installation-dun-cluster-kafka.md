@@ -1,7 +1,7 @@
 ---
 id: 318
 title: Installation d&rsquo;un cluster Kafka
-date: 2017-10-23T21:23:46+00:00
+date: {}
 author: admin
 layout: post
 guid: 'http://boussoufiane.com/?p=318'
@@ -20,7 +20,7 @@ Dans notre installation, on va utiliser un cluster de 3 instances Kafka et 3 ins
   
 Chaque instance de Kafka et Zookeeper a un identifiant pour l’identifier de facon unique dans le cluster .
 
-![](/assets/img/installation-dun-cluster-kafka/archi_kafka.jpg)
+![]({{site.url}}{{site.baseurl}}/assets/img/installation-dun-cluster-kafka/archi_kafka.jpg)
 
 2. Installation
   
