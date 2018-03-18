@@ -30,7 +30,7 @@ D’abord on crée un répertoire de travail qu’on appellera « Kafka » dans 
 
 &nbsp;
 
-![]({{site.url}}{{site.baseurl}}/assets/img/installation-dun-cluster-kafka/kafka_1.jpg)
+![]({{site.url}}{{site.baseurl}}/assets/img/installation-dun-cluster-kafka/kafka_1.png)
 
 &nbsp;
 
