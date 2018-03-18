@@ -1,7 +1,7 @@
 ---
 id: 318
 title: Installation d&rsquo;un cluster Kafka
-date: {}
+date: 2017-10-23T21:23:46+00:00
 author: admin
 layout: post
 guid: 'http://boussoufiane.com/?p=318'
