@@ -25,7 +25,7 @@ Google, Yahoo ou Facebook ont été les premiers à être confrontés à des vol
 
 Voici quelques exemples de technologies open source utilisées pour la gestion des données massives :
 
-![tableau 4.3. quelques technologies open source du big data. ](http://i-cms.journaldunet.com/image_cms/400/1713589-big-data-des-solutions-majoritairement-open-source.jpg)
+![]({{site.url}}{{site.baseurl}}/assets/img/2016-12-30-lecosysteme-hadoop/1713589-big-data-des-solutions-majoritairement-open-source.jpg)
 
 &nbsp;
 
@@ -39,7 +39,7 @@ Plus concrètement Hadoop est constitué de plusieurs composants couvrant le sto
 
 &nbsp;
 
-![figure 4.1. principaux composants d'apache hadoop ](http://i-cms.journaldunet.com/image_cms/400/1713640-hadoop-et-son-ecosysteme.jpg)
+![]({{site.url}}{{site.baseurl}}/assets/img/2016-12-30-lecosysteme-hadoop/1713640-hadoop-et-son-ecosysteme.jpg)
 
 &nbsp;
 
