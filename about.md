@@ -5,9 +5,7 @@ sidebar_link: true
 published: true
 ---
 
-![photo_moi_profil.jpg](/assets/img/photo_moi_profil.jpg){: .align-center}
-
-
+![photo_moi_profil.jpg](/assets/img/photo_moi_profil.jpg)
 
 
 <p class="message">
