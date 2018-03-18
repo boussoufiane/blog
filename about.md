@@ -5,7 +5,8 @@ sidebar_link: true
 published: true
 ---
 
-![Photo_profile.PNG]({{site.baseurl}}/Photo_profile.PNG)
+![photo_moi_profil.jpg]({{site.baseurl}}/photo_moi_profil.jpg)
+
 
 ## YASSINE BOUSSOUFIANE
 
@@ -24,6 +25,3 @@ Ce blog est un moyen pour moi de poster des arcticles concernant les différents
 <p class="message">
 Si vous avez des remarques sur mon blogs ou des question à me poser n'hésiter pas à me contacter sur mon profil linkdin ou m'envoyer un email sur l'adresse y.boussoufiane@gmail.com
 </p>
-
-
-
