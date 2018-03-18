@@ -5,6 +5,7 @@ sidebar_link: true
 published: true
 ---
 
+![photo_moi_profil.jpg]({{{{site.url}}/{{site.baseurl}}/assets/img/photo_moi_profil.jpg"}}){: .align-center}
 
 
 
