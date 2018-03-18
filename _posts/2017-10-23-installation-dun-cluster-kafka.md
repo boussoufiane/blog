@@ -31,6 +31,7 @@ D’abord on crée un répertoire de travail qu’on appellera « Kafka » dans 
 &nbsp;
 
 ![]({{site.url}}{{site.baseurl}}/assets/img/installation-dun-cluster-kafka/kafka_1.jpg)
+
 &nbsp;
 
 Ensuite on crée deux sous répertoires « kafka-logs » et « zookeeper-data» dans le répértoire principale de kafka
